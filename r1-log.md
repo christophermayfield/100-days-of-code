@@ -10,7 +10,9 @@ Looking forward to starting coding more seriously. I have always wanted to do it
 
 Today I am focusing on getting my github repo setup, and thinking about some projects to do.
 
-In addition, I started doing a small portfolio coding project for freeCodeCamp just so i can get myself in the coding mood. 
+In addition, I started doing a small portfolio coding project for freeCodeCamp just so i can get myself in the coding mood.
 
 
-### R1D2
+### R1D2 Saturday January 6th 2018
+
+I did some more work on my portoflio project today. Today I went to Disneyland with Karina, so I barely was able to get a full hour of coding today, but i pushed some code to github, which was good. 
