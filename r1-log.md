@@ -15,7 +15,7 @@ In addition, I started doing a small portfolio coding project for freeCodeCamp j
 
 ### R1D2 Saturday January 6th 2018
 
-I did some more work on my portoflio project today. Today I went to Disneyland with Karina, so I barely was able to get a full hour of coding today, but i pushed some code to github, which was good. 
+I did some more work on my portoflio project today. Today I went to Disneyland with Karina, so I barely was able to get a full hour of coding today, but i pushed some code to github, which was good.
 
 
 
@@ -25,4 +25,8 @@ I didn't code today. I really wanted to, but I wasn't feeling up to it. I Will g
 
 ### R1D4 Monday January 8th 2018
 
-I was able to get some coding in today. It was a long drive back from work in the rain, but I pushed through it and pushed a few commits to github. I updated my computer as well. I was thinking about doing this 6 week math class, but I realized that it probably wouldn't be the smartest thing to do since classes that are condensed like that aren't the most knowledge efficient. 
+I was able to get some coding in today. It was a long drive back from work in the rain, but I pushed through it and pushed a few commits to github. I updated my computer as well. I was thinking about doing this 6 week math class, but I realized that it probably wouldn't be the smartest thing to do since classes that are condensed like that aren't the most knowledge efficient.
+
+## R1D5 Tuesday January 9th 2018
+
+I pushed a few lines of code to github today. There was alot of rain today, so it took me a while to get home. 
