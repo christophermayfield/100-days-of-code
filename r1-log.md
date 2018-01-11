@@ -35,3 +35,8 @@ I pushed a few lines of code to github today. There was alot of rain today, so i
 ## R1D6 Wednesday January 10th 2018
 
 Today, I am trying to write some of the freeCodeCamp's beginning algorithm challeneges. In addition, I am working on the portfolio project.
+
+
+## R1D7 Thursday January 10th 2018
+
+Almost to the end of the week! Today I am going to work on a an algorithm or 2, Write some code on FCC. Read the big-0 notation chapter in cracking the code interview, and apply for a few jobs. 
