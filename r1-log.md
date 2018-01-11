@@ -29,4 +29,9 @@ I was able to get some coding in today. It was a long drive back from work in th
 
 ## R1D5 Tuesday January 9th 2018
 
-I pushed a few lines of code to github today. There was alot of rain today, so it took me a while to get home. 
+I pushed a few lines of code to github today. There was alot of rain today, so it took me a while to get home.
+
+
+## R1D6 Wednesday January 10th 2018
+
+Today, I am trying to write some of the freeCodeCamp's beginning algorithm challeneges. In addition, I am working on the portfolio project.
