@@ -40,3 +40,8 @@ Today, I am trying to write some of the freeCodeCamp's beginning algorithm chall
 ## R1D7 Thursday January 10th 2018
 
 Almost to the end of the week! Today I am going to work on a an algorithm or 2, Write some code on FCC. Read the big-0 notation chapter in cracking the code interview, and apply for a few jobs. 
+
+
+## R1D7 Friday January 11th 2018
+
+We finished a week of 100 days of code. That is quite impressive I might say. I haven't been able to get as much coding done as I would have hoped, but this mission is keeping me motivated. I'm going to read the big-0 notation chapter in CTCI as well as learn recursion and push a code example. I also pushed my ARKIT code to github. 
