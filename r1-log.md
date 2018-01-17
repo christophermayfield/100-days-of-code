@@ -37,11 +37,28 @@ I pushed a few lines of code to github today. There was alot of rain today, so i
 Today, I am trying to write some of the freeCodeCamp's beginning algorithm challeneges. In addition, I am working on the portfolio project.
 
 
-## R1D7 Thursday January 10th 2018
+## R1D7 Thursday January 11th 2018
 
 Almost to the end of the week! Today I am going to work on a an algorithm or 2, Write some code on FCC. Read the big-0 notation chapter in cracking the code interview, and apply for a few jobs. 
 
 
-## R1D7 Friday January 11th 2018
+## R1D7 Friday January 12th 2018
 
-We finished a week of 100 days of code. That is quite impressive I might say. I haven't been able to get as much coding done as I would have hoped, but this mission is keeping me motivated. I'm going to read the big-0 notation chapter in CTCI as well as learn recursion and push a code example. I also pushed my ARKIT code to github. 
+We finished a week of 100 days of code. That is quite impressive I might say. I haven't been able to get as much coding done as I would have hoped, but this mission is keeping me motivated. I'm going to read the big-0 notation chapter in CTCI as well as learn recursion and push a code example. I also pushed my ARKIT code to github.
+
+## R1D8 Saturday January 13th 2018
+
+Stressful day. I had to figure out some issues. I did a few tutorials and wrote a few lines of code. Watched some ted talks and read a bit. 
+
+## R1D9 Sunday January 14th 2018
+
+Got stuck in traffic on the way back from Karina's house, so I wasn't able to get a full hour of code in today. I played too many video games and got distracted easily. We saw a movie as well, so I wasn't in the mood to code that day. 
+
+## R1D10 Monday January 15th 2018
+
+I'll be honeset. There was no code that was written today. I was too burned out by the prospect of finishing my masters degree and going back to work that I shut down. 
+
+## R1D11 Tuesday January 16th 2018
+
+No code written today. I was focusing on applying to jobs and finding work so I can leave ABA. I had to deal with some personal issues. I read some of Cracking the Coding interview. Hoping to get back on the horse soon. 
+
