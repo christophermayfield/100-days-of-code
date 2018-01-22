@@ -58,7 +58,35 @@ Got stuck in traffic on the way back from Karina's house, so I wasn't able to ge
 
 I'll be honeset. There was no code that was written today. I was too burned out by the prospect of finishing my masters degree and going back to work that I shut down. 
 
-## R1D11 Tuesday January 16th 2018
+## R1D11 Tuesday January 16th 2018 
 
 No code written today. I was focusing on applying to jobs and finding work so I can leave ABA. I had to deal with some personal issues. I read some of Cracking the Coding interview. Hoping to get back on the horse soon. 
+
+## R1D12 Wednesday January 17th 2018 
+
+I spend that day reading Cracking the Coding Interview. I pushed a few lines of code to github. and applied to a few jobs. 
+
+## R1D13 Thursday January 18th 2018 
+
+I worked on Siraj Rival's "The math of intelligence" course. In addition, I also pushed a few lines of code to github. I also watched a few videos on calculus 
+
+
+## R1D14 Friday January 19th 2018 
+
+Today was a bit of a lazy day. I had a full day of work and wasnt' able to get any code written today. I was motiviated by watchin the AlphaGo documentary on Netflix to check out some doctorate programs in machine learning. I also watched a video on Geometric Sequences and sums. 
+
+
+## R1D15 Saturday January 20th 2018 
+
+Celebrated Michaels birthday at KBBQ. No code written today. 
+
+
+## R1D16 Sunday January 21st 2018 
+
+Watched a few tutorials before going to a kings game. No github pushes today. 
+
+
+## R1D17 Monday January 22nd 2018 
+
+Not feeling all too well today. Going to work and see if I can get any github pushes today. 
 
