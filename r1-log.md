@@ -90,3 +90,14 @@ Watched a few tutorials before going to a kings game. No github pushes today.
 
 Not feeling all too well today. Going to work and see if I can get any github pushes today. 
 
+## R1D18 Tuesday January 23rd 2018 
+
+I wrote a little bit of code today and almost finished up the first chapter of cracking the code interview.
+
+## R1D19 Wednesday January 24th 2018 
+
+Today I research some computer science programs. I played around with javascript objects a bit and watched a few computer science videos. 
+
+## R1D20 Thursday January 25th 2018 
+
+I called off of work today as I wasn't feeling too well. I watched a movie and did a few tutorials From Wesbos javascript 30 today. I felt like it was a more productive day. 
